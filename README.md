@@ -1,16 +1,34 @@
-# Estrutura de Dados - Ordenação Eficiente
+## Welcome to Data Structure
 
-Implementação de algoritmos de ordenação eficiente nas linguagens: *Python*, *TypeScript* e *Java*
+Implementação de algoritmos, pelo menos os mais famosos, utilizando as linguagens _Python_, _TypeScript_, _Java_ e _C++_. O objetivo deste repositório é servir de consulta para alunos de cursos de T.I., cursos "parentes" ou quem estiver buscando encontrar implementações de algoritimos em português, bem comentados e com materiais de texto e vídeo para estudo.
 
-## Códigos:
+Veja [aqui](./markdown/compilar-typescript.md) para compilar o Typescript.
 
-- [Python](./src/python/)
-- [TypeScript](./src/typescript/) > [Como utilizar?](./markdown/compilar-typescript.md)
-- [Java](./src/java/)
+### Algoritmos de Ordenação
 
-## Material:
+Lineares
 
+- [ ] algoritmo-1
+- [ ] algoritmo-2
+- [ ] ...
+
+Com Contagem
+
+- [ ] algoritmo-1
+- [ ] algoritmo-2
+- [ ] ...
+
+### Algoritmos de Busca
+
+- [ ] algoritmo-1
+- [ ] algoritmo-2
+- [ ] ...
+
+...
+
+<!-- ### Material -->
+
+<!-- - [Ordenacao Linear](https://joaoarthurbm.github.io/eda/posts/ordenacao-linear/)
 - [CountingSort](./markdown/countingsort.md)
-- [HeapSort](./markdown/heapsort.md)
-- [MergeSort](./markdown/mergesort.md)
-- [QuickSort](./markdown/quicksort.md)
+- [Heap](https://joaoarthurbm.github.io/eda/posts/heap/)
+- [HeapSort](./markdown/heapsort.md) -->
